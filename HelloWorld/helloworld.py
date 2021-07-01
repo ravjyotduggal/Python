@@ -1,0 +1,5 @@
+print('Hello World!')
+print(2+4)
+print(7*6)
+print()
+print("The End","hello how are you", 3)
